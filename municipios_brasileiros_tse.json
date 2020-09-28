@@ -2965,35 +2965,35 @@
     "uf":"BA",
     "nome_municipio":"LAGOA REAL",
     "capital":0,
-    "codigo_ibge":2918803
+    "codigo_ibge":2918753
   },
   {
     "codigo_tse":36773,
     "uf":"BA",
     "nome_municipio":"LAJE",
     "capital":0,
-    "codigo_ibge":2918902
+    "codigo_ibge":2918803
   },
   {
     "codigo_tse":36811,
     "uf":"BA",
     "nome_municipio":"LAJEDINHO",
     "capital":0,
-    "codigo_ibge":2919058
+    "codigo_ibge":2919009
   },
   {
     "codigo_tse":36820,
     "uf":"BA",
     "nome_municipio":"LAJEDO DO TABOCAL",
     "capital":0,
-    "codigo_ibge":2918753
+    "codigo_ibge":2919058
   },
   {
     "codigo_tse":36790,
     "uf":"BA",
     "nome_municipio":"LAJEDÃO",
     "capital":0,
-    "codigo_ibge":2919009
+    "codigo_ibge":2918902
   },
   {
     "codigo_tse":36838,
@@ -32526,14 +32526,14 @@
     "uf":"SC",
     "nome_municipio":"SANTA TEREZINHA DO PROGRESSO",
     "capital":0,
-    "codigo_ibge":4215695
+    "codigo_ibge":4215687
   },
   {
     "codigo_tse":81205,
     "uf":"SC",
     "nome_municipio":"SANTIAGO DO SUL",
     "capital":0,
-    "codigo_ibge":4215687
+    "codigo_ibge":4215695
   },
   {
     "codigo_tse":83097,
